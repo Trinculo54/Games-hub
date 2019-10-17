@@ -9,6 +9,6 @@ and
 
 ## unzip the file that is given!
 
-OPTIONAL: 
+## 'OPTIONAL:' 
 
-## Delete the original files and drag these new files to the USB flash drive and you now have an updated version of Games Hub!
+Delete the original files and drag these new files to the USB flash drive and you now have an updated version of Games Hub!
