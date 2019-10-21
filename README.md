@@ -15,4 +15,4 @@ Delete the original files and drag these new files to the USB flash drive and yo
 
 `Online version:` 
 
-To view the online version click this link [![games hub][github-img]](https://trinculo54.github.io/Games-hub/Click%20me.htm)
+To view the online version click this link [games hub](https://trinculo54.github.io/Games-hub/Click%20me.htm)
