@@ -12,3 +12,7 @@ and
 `OPTIONAL:` 
 
 Delete the original files and drag these new files to the USB flash drive and you now have an updated version of Games Hub!
+
+`Online version:` 
+
+To view the online version click this link [![games hub][github-img]](https://trinculo54.github.io/Games-hub/Click%20me.htm)
