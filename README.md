@@ -3,7 +3,9 @@ flash games that work offline when you download them
 
 to downlad these game click the 
 
-`Clone/Download button` 
+`Download button` 
+
+[here](https://trinculo54.github.io/Games-hub/offline/Offline.zip)
 
 and 
 
