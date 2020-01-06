@@ -1,13 +1,10 @@
-# Games-hub
-flash games that work offline when you download them
+`flash games that work offline when you download them
 
-to downlad these game click the 
-
-`[Download button](https://trinculo54.github.io/Games-hub/offline/Offline.zip)` 
+to downlad these game click the download button here`
 
 [here](https://trinculo54.github.io/Games-hub/offline/Offline.zip)
 
-and 
+`and` 
 
 ## unzip the file that is given!
 
