@@ -1,3 +1,5 @@
+https://img.shields.io/github/v/release/Trinculo54/Games-hub
+
 flash games that work offline when you download them
 
 to downlad these game click the download button here
