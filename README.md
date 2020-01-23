@@ -11,7 +11,7 @@ to downlad these game click the download button here
 
 `OPTIONAL:` 
 
-Delete the original files and drag these new files to the USB flash drive and you now have an updated version of Games Hub!
+Delete the old files and drag these new files to the USB flash drive and you now have an updated version of Games Hub!
 
 `Online version:` 
 
