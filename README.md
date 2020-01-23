@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Trinculo54/Games-hub?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Trinculo54/Games-hub?style=for-the-badge) ![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
 
 flash games that work offline when you download them
 
