@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Trinculo54/Games-hub?style=for-the-badge) ![PowerShell Gallery](https://trinculo54.github.io/Games-hub/Don't%20click%20me/stuff/yes.html)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Trinculo54/Games-hub?style=for-the-badge) ![PowerShell Gallery](https://img.shields.io/static/v1?label=platform&message=WINDOWS%20|%20LINUX%20|%20CHROMEBOOK&color=blue&style=for-the-badge)
 
 flash games that work offline when you download them
 
