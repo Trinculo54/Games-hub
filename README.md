@@ -1,18 +1,13 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Trinculo54/Games-hub?style=for-the-badge) ![PowerShell Gallery](https://img.shields.io/static/v1?label=platform&message=WINDOWS%20|%20LINUX%20|%20CHROMEBOOK%20|%20MACOS&color=blue&style=for-the-badge)
 
-flash games that work offline when you download them
+# Welcome to Games Hub
 
-to downlad these game click the download button here
+Hi! This is an online and offline program that utilizes the program known as Flash.
 
-[here](https://trinculo54.github.io/Games-hub/offline/Offline.zip)
- 
 
-## unzip the file that is given!
+# Flash
 
-`OPTIONAL:` 
+Flash is an program made by adobe known for photoshop. To download Flash go to [This site](https://get.adobe.com/flashplayer/npapiosx/) to play **offline!**
 
-Delete the old files and drag these new files to the USB flash drive and you now have an updated version of Games Hub!
-
-`Online version:` 
-
-To view the online version click this link [games hub](https://trinculo54.github.io/Games-hub/)
+## Downloading files
+When downloading the zip from [here](https://trinculo54.github.io/Games-hub/offline/Offline.zip)  open the zip file and drag the folder on to your downloads or USB Flash.
