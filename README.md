@@ -10,4 +10,4 @@ Hi! This is an online and offline program that utilizes the program known as Fla
 Flash is an program made by adobe known for photoshop. To download Flash go to [This site](https://get.adobe.com/flashplayer/npapiosx/) to play **offline!**
 
 ## Downloading files
-When downloading the zip from [here](https://trinculo54.github.io/Games-hub/offline/Offline.zip)  open the zip file and drag the folder on to your downloads or USB Flash.
+When downloading the zip from [here](https://trinculo54.github.io/Games-hub/Offline/Offline.zip)  open the zip file and drag the folder on to your downloads or USB Flash.
