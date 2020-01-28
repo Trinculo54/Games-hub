@@ -2132,3 +2132,55 @@ header {
   text-align: center;
   font-size: 12px;
 }
+:root {
+    --custom-track-color: rgba(0, 0, 0, 0);
+    --custom-thumb-color: rgba(79, 140, 201, .8);
+    --custom-width: thin;
+    --webkit-scrollbar-hover: rgb(79, 140, 201);
+    --webkit-scrollbar-width-height: 6px;
+    --webkit-scrollbar-border-radius: 0px;
+  }
+  /* Firefox and derivatives >= v64*/
+  *:not(select) {
+    scrollbar-color: var(--custom-thumb-color) var(--custom-track-color) !important;
+    scrollbar-width: var(--custom-width) !important;
+  }
+  /* Chrome and derivatives*/
+  ::-webkit-scrollbar {
+    max-width: var(--webkit-scrollbar-width-height) !important;
+    max-height: var(--webkit-scrollbar-width-height) !important;
+    background: var(--custom-track-color) !important;
+  }
+  ::-webkit-scrollbar-corner,
+  ::-webkit-scrollbar-track,
+  ::-webkit-scrollbar-track-piece {
+    background: var(--custom-track-color) !important;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--custom-thumb-color) !important;
+    border-radius: var(--webkit-scrollbar-border-radius) !important;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--webkit-scrollbar-hover) !important;
+  }
+  /* GitHub https://github.com/StylishThemes/GitHub-Dark/issues/870 */
+  .integrations-select-repos::-webkit-scrollbar {
+    max-width: var(--webkit-scrollbar-width-height) !important;
+    width: var(--webkit-scrollbar-width-height) !important;
+  }
+  .integrations-select-repos::-webkit-scrollbar-thumb {
+    background: var(--custom-thumb-color) !important;
+    border: 0 !important;
+    border-radius: var(--webkit-scrollbar-border-radius) !important;
+    box-shadow: none !important;
+  }
+  .integrations-select-repos::-webkit-scrollbar-track-piece {
+    background: var(--custom-track-color) !important;
+  }
+  /* Hide the scrollbars that the overlay scrollbars style adds */
+  [style*="overflow-y:auto"] {
+    scrollbar-width: none !important;
+  }
+  [style*="overflow-y:auto"]::-webkit-scrollbar {
+    display: none;
+  }
